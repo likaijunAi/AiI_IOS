@@ -1,2 +1,2 @@
 # AiI_IOS
-Artificial Intelligence Interface For IOS
+AI Interface For IOS
